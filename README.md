@@ -12,6 +12,6 @@ This repository contains a simple React app that displays the text "Codin 1"
 
 1. **clone this repository:**
 
-'''bash
+```bash
 git clone https://github.com/twiens3/Wiens_Tyler_Site.git
 cd Wiens_Tyler_Site
