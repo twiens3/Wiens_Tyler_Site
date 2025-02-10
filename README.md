@@ -20,11 +20,11 @@ cd Wiens_Tyler_Site
 2. **build the docker app**
 
 ```bash
-docker build -t react-app .
+docker build -t Wiens_Tyler_coding1 .
 ```
 
 3. **run the docker container**
 
 ```bash
-docker run -p 7775:7775 react-app
+docker run -p 7775:7775 Wiens_Tyler_coding1
 ```
