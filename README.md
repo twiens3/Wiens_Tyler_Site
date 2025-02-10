@@ -15,3 +15,16 @@ This repository contains a simple React app that displays the text "Codin 1"
 ```bash
 git clone https://github.com/twiens3/Wiens_Tyler_Site.git
 cd Wiens_Tyler_Site
+```
+
+2. **build the docker app**
+
+```bash
+docker build -t react-app .
+```
+
+3. **run the docker container**
+
+```bash
+docker run -p 7775:3000 react-app
+```
