@@ -26,5 +26,5 @@ docker build -t react-app .
 3. **run the docker container**
 
 ```bash
-docker run -p 7775:3000 react-app
+docker run -p 7775:7775 react-app
 ```
